@@ -1,0 +1,8 @@
+site_name: JWT Decoder
+site_description: Decode a JSON Web Token's header and payload in the browser.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
