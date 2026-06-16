@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/jwt-decoder",
+  "version": "1.0.0",
+  "description": "Decode a JSON Web Token's header and payload in the browser. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "jwt-decoder.js",
+  "unpkg": "jwt-decoder.js",
+  "files": ["jwt-decoder.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "decode jwt", "jwt token decoder", "jwt parser"],
+  "homepage": "https://sgbp.tech/tools/jwt-decoder",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
